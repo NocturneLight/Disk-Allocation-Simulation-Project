@@ -1,4 +1,4 @@
-To compile  the program:
+To compile the program:
    	    You type in "make".
 
 To delete object files and other things:
@@ -6,3 +6,5 @@ To delete object files and other things:
 
 To run the program:
    	    You type in "ProjectThree" and then type in either "contiguous", "indexed", or "chained".
+          
+ NOTE: Only works in Unix environments!
